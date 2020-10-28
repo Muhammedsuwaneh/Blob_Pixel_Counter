@@ -1,0 +1,8 @@
+7 19
+xx       xxxx  xxxx
+xxx      xxxx  xxx
+xxxx     xxxx  x
+     x
+xxx  xxxx
+xxxx xxxx
+xx   xxxxxxxx
