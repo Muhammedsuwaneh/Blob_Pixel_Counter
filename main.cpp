@@ -3,7 +3,7 @@
   Algorithms and Data Structures
   Recursive Algorithms Assigment
   Contributors:
-  Muhammed Suwaneh - 152120181098
+  Muhammed Suwaneh
   Department of Computer Engineering 
   Eskisehir Osmangazi University, October 2020
  */
