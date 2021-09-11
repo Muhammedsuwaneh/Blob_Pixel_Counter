@@ -18,7 +18,7 @@ Lab class.
 4. The pixel count is then used compute the number of center of it's mass on the x and y cordinates of the .txt file
 5. The results get printed on the console together with the blobs.
 
-For more info please find the question here [`Blob_Pixel_Counting.png`](Problem/Blob_Pixel_Counting.png)
+For more info please find the question here [`Blob_Pixel_Counting.pdf`](Problem/Blob_Pixel_Counting.pdf)
 
 ## Technologies 
 
