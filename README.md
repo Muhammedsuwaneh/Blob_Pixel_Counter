@@ -2,14 +2,14 @@
 
 ## Prerequisites 
 
-The project runs on C++ Visual Studio Environment. The program can be run in other IDEs as well.
+The project runs on C++ Visual Studio Environment. The program can on other IDEs as well.
 To do that successfully, only the main.cpp is needed. An enlarged console screen is suitable for correct
 visualization of the blobs counted and results computed.
 
 ## About 
 
-The project is an assignment given to me as part of the requirement of Data Structures and Algorithms
-Lab class.
+The project is an assignment given to me as part of the requirement for the Data Structures and Algorithms
+Lab course.
 
 - Operations 
 1. The Program reads a .txt file contaning the blobs
