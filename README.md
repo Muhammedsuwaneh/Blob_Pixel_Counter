@@ -30,8 +30,8 @@ Muhammed Suwaneh
 
 ## Disclaimer 
 
-This project purposely meant for practice. To professionally count pixels, it is
-recommended to use Libaries like OpenCV & Languages like Python. The program cannot 
+This project is purposely meant for practice. To professionally count pixels, it is
+recommended to use libaries like OpenCV & languages like Python. The program cannot 
 count pixels of a real picture/image. I hope students find it useful.
 
 ## Screenshots
