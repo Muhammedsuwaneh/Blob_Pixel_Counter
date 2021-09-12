@@ -15,7 +15,7 @@ Lab course.
 1. The Program reads a .txt file contaning the blobs
 2. The blobs are scanned/ searched.
 3. When a blob is found, the number of pixels it contains is counted recursively
-4. The pixel count is then used compute the center of it's mass on the x and y cordinates of the .txt file
+4. The pixel count is then used to compute the center of it's mass on the x and y cordinates.
 5. The results get printed on the console together with the blobs.
 
 For more info please find the question here [`Blob_Pixel_Counting.pdf`](Problem/Blob_Pixel_Counting.pdf)
