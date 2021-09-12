@@ -2,7 +2,7 @@
 
 ## Prerequisites 
 
-The project runs on C++ Visual Studio Environment. The program can on other IDEs as well.
+The project runs on a C++ Visual Studio Environment. The program runs on other IDEs as well.
 To do that successfully, only the main.cpp is needed. An enlarged console screen is suitable for correct
 visualization of the blobs counted and results computed.
 
