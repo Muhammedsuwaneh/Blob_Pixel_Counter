@@ -1,4 +1,4 @@
-# Basic Blob Finding and Pixel counting Project 
+# Basic Blob Finding and Pixel counter
 
 ## Prerequisites 
 
@@ -6,12 +6,8 @@ The project runs on a C++ Visual Studio Environment. The program runs on other I
 To do that successfully, only the main.cpp is needed. An enlarged console screen is suitable for correct
 visualization of the blobs counted and results computed.
 
-## About 
+## Operations 
 
-The project is an assignment given to me as part of the requirement for the Data Structures and Algorithms
-Lab course.
-
-- Operations 
 1. The Program reads a .txt file contaning the blobs
 2. The blobs are scanned/ searched.
 3. When a blob is found, the number of pixels it contains is counted recursively
